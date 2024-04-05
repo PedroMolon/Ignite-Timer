@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/assets/ignite-logo.svg" alt="" />
+  <img src="src/assets/logo.svg" alt="O" />
   <h1 align="center">Ignite Timer</h1>
 </p>
 
